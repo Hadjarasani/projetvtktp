@@ -1,5 +1,6 @@
 # projetvtktp
 Voir le pdf pour les images ou le dossier images
+
 EXPLICATION DU CODE :
 J’ai repris les techniques de l’out-of-core du tp7 avec le parallélisme vu en cours pour optimiser mon code au maximum et avoir un bon rendu des images. Globalement, voici comment fonctionne mon code:
 
